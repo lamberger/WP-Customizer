@@ -1,0 +1,22 @@
+.pjl-message {
+    background-color: #e3e3e3;
+    padding: 20px;
+    margin: 30px 0 0 0;
+    overflow: hidden;
+}
+.pjl-message-img {
+    float: left;
+    width: 30%;
+}
+.pjl-message-text {
+    float: right;
+    width: 67%;
+}
+
+.pjl-message-text h3 {
+    font-size: 1.7rem;
+    margin: 0 0 .35rem 0;
+}
+.pjl-message-text p {
+    font-size: .9rem;
+}
